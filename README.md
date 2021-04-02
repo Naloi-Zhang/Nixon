@@ -7,12 +7,14 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 # Nixon Transaction Network
 > purely anonymous transaction network
 
+![](img/CryptoNote.png)
 
-## Screenshots
+## Description
 
 Nixon Core
-
-![](img/CryptoNote.png)
+```sh
+Has build in miner and wallet
+```
 
 ## Installation
 
