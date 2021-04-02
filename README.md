@@ -12,7 +12,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 
 Nixon Core
 
-![](img/Cryptonote.png)
+![](img/CryptoNote.png)
 
 ## Installation
 
